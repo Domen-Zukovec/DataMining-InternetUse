@@ -2,12 +2,12 @@
 
 
 ### Pogled na podatke glede na spol ###
-Za začetek sem podatke uvozil v Jupyter Notebook s pomočjo knjižnjice pandas.
+Za začetek sva podatke uvozila v Jupyter Notebook s pomočjo knjižnjice pandas.
 ![Uvoz](/images/uvoz.png)
 
-Dobil sem tabelo podatkov, katero lahko uporabljam za prikazovanje.
+Dobila sva tabelo podatkov, katero lahko uporabljava za prikazovanje.
 ![Tabela](/images/tabela.png)
-
+## Domen Žukovec ##
 Opazil sem, da najbolj uporabljene internetne storitve skozi leta težko prikazujem ker se najbolj popularne prikažejo večkrat (tudi do petkrat).
 Odločil sem se, da bom za začetni prikaz uporabil samo leto 2015 in se kasneje posvetil še ostalim letom.
 
